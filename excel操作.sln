@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excel操作", "excel操作\excel操作.csproj", "{8EE8DDBF-FBFB-4B94-AC24-25F6732C52EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excel内容读取", "excel内容读取\excel内容读取.csproj", "{D003B63A-EEDF-4535-B4A7-F85E0DB83524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE8DDBF-FBFB-4B94-AC24-25F6732C52EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE8DDBF-FBFB-4B94-AC24-25F6732C52EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE8DDBF-FBFB-4B94-AC24-25F6732C52EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE8DDBF-FBFB-4B94-AC24-25F6732C52EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D003B63A-EEDF-4535-B4A7-F85E0DB83524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D003B63A-EEDF-4535-B4A7-F85E0DB83524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D003B63A-EEDF-4535-B4A7-F85E0DB83524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D003B63A-EEDF-4535-B4A7-F85E0DB83524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADEC6D52-E776-4F74-9D43-CE849D3A5F1A}
+	EndGlobalSection
+EndGlobal
